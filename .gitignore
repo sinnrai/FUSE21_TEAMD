@@ -5,7 +5,9 @@ ty generated #
 [Bb]uild
 [Ll]ibrary/
 sysinfo.txt
- 
+*.log
+*.pyc
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
